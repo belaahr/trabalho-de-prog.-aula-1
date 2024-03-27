@@ -9,7 +9,7 @@ while (nomeUsuario ==''){
     nomeUsuario = prompt('cuidado com o 🐋 qual seu nome?');
 }
 
-if (nomeUsuario == nulo) {
+if (nomeUsuario == '') {
     texto.textContent = 'Usuario'; 
 } 
 
