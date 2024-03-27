@@ -11,7 +11,5 @@ while (nomeUsuario ==''){
 
 if (nomeUsuario == nulo) {
     texto.textContent = 'Usuario'; 
-}
-
-else {
+} else {
 texto.textContent = nomeUsuario; }
