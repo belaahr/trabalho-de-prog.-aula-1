@@ -9,4 +9,9 @@ while (nomeUsuario ==''){
     nomeUsuario = prompt('cuidado com o 🐋 qual seu nome?');
 }
 
-texto.textContent = nomeUsuario; 
+if (nomeUsuario == nulo) {
+    texto.textContent = 'Usuario'; 
+}
+
+else {
+texto.textContent = nomeUsuario; }
