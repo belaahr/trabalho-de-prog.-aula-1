@@ -22,9 +22,9 @@ padding: 20px;
 font-size: 20px;
 }
     .ativo {
-background-color: black;
+background-color: rgb(0, 0, 0);
 color: aliceblue;
-border-bottom: 3px solid rgb(190, 163, 163);
+border-bottom: 3px solid rgb(0, 0, 0);
 
 }
 
