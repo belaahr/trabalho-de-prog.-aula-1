@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 203, 229);
+    background-color: rgb(170, 228, 228);
     color: black;
 }
 span{ 
@@ -9,7 +9,7 @@ span{
 
 .metas{
 
-    background-color: rgb(170, 228, 228);
+    background-color: rgb(253, 185, 236);
     padding: 20px 0;
     text-align: center;
 }
