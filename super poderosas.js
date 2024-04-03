@@ -1,7 +1,7 @@
 const botoes= document.querySelectorAll('.objetivos');
-// botoes.legth
+// botoes.length
 
-for (let i = 0; i < botoes.legth; i++) {
+for (let i = 0; i < botoes.length; i++) {
     console.log(i);
 }
 
