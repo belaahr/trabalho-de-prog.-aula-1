@@ -28,3 +28,15 @@ border-bottom: 3px solid rgb(0, 0, 0);
 
 }
 
+.aba-conteudo {
+
+display: none;
+
+}
+
+.ativa {
+
+    display: block;
+    color: black;
+}
+
