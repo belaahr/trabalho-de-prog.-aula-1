@@ -26,4 +26,4 @@ let minutos = MATH.FLOOR (tempoFinal/60);
 let horas = MATH.FLOOR (minutos/60);
 let dias = MATH.FLOOR (horas/24);
 
-contadores[0].textContent = dias;
+contadores[0].textContent = dias + "dias" + horas + "horas" + minutos + "minutos" + segundos + "segundos";
