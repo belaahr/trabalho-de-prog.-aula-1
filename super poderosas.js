@@ -20,7 +20,7 @@ const contadores = document.querySelectorAll('.contador');
 const tempoObjetivo1 = new Date('2025-03-16T00:00:00');
 
 let TempoAtual = new Date ();
-let tempo = tempoObjetivo1 - TempoAtual;
+let tempoFinal = tempoObjetivo1 - TempoAtual;
 let segundos = Math.floor (tempoFinal/1000);
 let minutos = Math.floor (tempoFinal/60);
 let horas = Math.floor (minutos/60);
